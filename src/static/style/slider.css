@@ -1,0 +1,18 @@
+#slider {
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+}
+
+input::placeholder {
+   padding-bottom: 1rem;
+}
+
+#button {
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   transition: 250ms;
+}
+
+#heading {
+   transition: 250ms;
+}
